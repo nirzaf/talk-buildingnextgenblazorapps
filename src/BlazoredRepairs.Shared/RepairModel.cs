@@ -5,13 +5,9 @@ namespace BlazoredRepairs.Shared
     public class RepairModel
     {
         public string Name { get; set; }
-
         public string Issue { get; set; }
-
         public string Trade { get; set; }
-
         public string ContactNumber { get; set; }
-
         public bool Complete { get; set; }
     }
 
